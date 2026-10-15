@@ -36,6 +36,10 @@ they hold.
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,nextjs,react,flutter&theme=dark" alt="TypeScript, Next.js, React, Flutter"/>
 </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/GNS3-Network%20Labs-2E7D32?style=for-the-badge" alt="GNS3"/>
+  <img src="https://img.shields.io/badge/Cisco%20IOS-Routing%20%26%20DHCP-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco IOS"/>
+</p>
 
 ### What I'm building at Insight Analytics
 
@@ -74,8 +78,14 @@ for the write-ups and screenshots.
 
 ### What I'm taking apart next
 
-Networking and distributed systems: how services stay correct when the network, a disk,
-or another service fails. Projects from that work will appear here.
+**Networking.** I build network labs in GNS3: multi-site topologies on emulated Cisco
+routers, with subnetting, WAN links and DHCP. Next I want to cover routing protocols and
+network security.
+
+**Distributed systems.** How services stay correct when the network, a disk, or another
+service fails.
+
+Projects from both will appear here.
 
 ### Let's talk
 
