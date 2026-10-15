@@ -1,10 +1,11 @@
 <h1 align="center">Hi, I'm Wiza 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Backend+Developer;Large-Scale+Systems;Django+%2B+PostgreSQL;Lusaka%2C+Zambia" alt="Backend Developer · Large-Scale Systems · Django + PostgreSQL · Lusaka, Zambia"/>
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Backend+Developer;Co-Founder%2C+Insight+Analytics;Large-Scale+Systems;Django+%2B+PostgreSQL;Lusaka%2C+Zambia" alt="Backend Developer · Co-Founder, Insight Analytics · Large-Scale Systems · Django + PostgreSQL · Lusaka, Zambia"/>
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Co--Founder-Insight%20Analytics-F7A41D?style=flat-square" alt="Co-Founder, Insight Analytics"/>
   <img src="https://img.shields.io/badge/Computer%20Science-ZCAS%20University-2b6cb0?style=flat-square" alt="Computer Science, ZCAS University"/>
   <img src="https://img.shields.io/badge/Based%20in-Lusaka%2C%20Zambia-informational?style=flat-square" alt="Lusaka, Zambia"/>
   <img src="https://img.shields.io/badge/Focus-Backend%20%26%20Large--Scale%20Systems-2F81F7?style=flat-square" alt="Focus: Backend and large-scale systems"/>
@@ -21,9 +22,11 @@ With software, it's the same question: what is actually happening underneath? Ho
 database keep two companies' data apart? What happens when a request is retried halfway
 through? Why does a system that works for ten users fall over at ten thousand?
 
-I'm a Computer Science student at ZCAS University, working toward backend engineering
-and large-scale systems. I build the parts most people never see: data models,
-transactions, tenant isolation, and the tests that prove they hold.
+I'm a Computer Science student at ZCAS University and a co-founder of
+**[Insight Analytics](https://insightanalyticsltd.com)**, a Lusaka-based company building
+business systems for Zambian organisations. I build the backend: the parts most people
+never see, such as data models, transactions, tenant isolation, and the tests that prove
+they hold.
 
 ### Tools I use
 
@@ -34,9 +37,9 @@ transactions, tenant isolation, and the tests that prove they hold.
   <img src="https://skillicons.dev/icons?i=ts,nextjs,react,flutter&theme=dark" alt="TypeScript, Next.js, React, Flutter"/>
 </p>
 
-### What I'm building
+### What I'm building at Insight Analytics
 
-**ZAMHRMS** is a multi-tenant HR and payroll platform for Zambian businesses. It covers
+**ZAMHRMS** is our multi-tenant HR and payroll platform for Zambian businesses. It covers
 employees, attendance, leave, recruitment, and payroll with PAYE, NAPSA and NHIMA.
 
 📌 See the **[zamhrms case study](https://github.com/Uncle-za/zamhrms)** for the
@@ -50,6 +53,18 @@ a commercial product; the case study shows *how* it is built, not a copy of it.
 | 🧾 **Tax rules that change every budget** | PAYE, NAPSA and NHIMA stored as versioned, dated rate tables, not hard-coded numbers |
 | 🪪 **Searching encrypted national IDs** | AES-256-GCM encryption with an HMAC blind index |
 | ✅ **Proving it works** | 870+ automated tests; CI runs linting, type checks, secret scanning and dependency audits on every pull request |
+
+### 📊 Excel business systems
+
+Operational tools built in Excel and VBA for Insight Analytics clients, together with my
+co-founder [Buseko Fungamwango](https://github.com/buseko-Actuary). See the
+**[Excel-Business-Systems](https://github.com/buseko-Actuary/Excel-Business-Systems)** repo
+for the write-ups and screenshots.
+
+| System | What it does | Client |
+|---|---|---|
+| 🎓 **HR Training Compliance Matrix** | Tracks staff certifications against role requirements, flags expiring or overdue training, and shows a live compliance dashboard | Zega |
+| 🚚 **Fleet & Driver Management** | Trip logging, driver and vehicle records, and automated distance-based costing | Platinum Courier |
 
 ### Other work
 
@@ -67,4 +82,4 @@ or another service fails. Projects from that work will appear here.
 I'm open to backend and infrastructure internships and graduate roles, in Zambia or remote,
 and to collaborations. I graduate in November 2027.
 
-📍 Lusaka, Zambia · ✉️ wizachaila@gmail.com
+📍 Lusaka, Zambia · 💼 Co-Founder, Insight Analytics · ✉️ wizachaila@gmail.com
